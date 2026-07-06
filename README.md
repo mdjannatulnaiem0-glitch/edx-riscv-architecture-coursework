@@ -15,14 +15,20 @@ Course Learning Objectives
 ##  Repository Structure
 
 Transistor 
+
 logic gate 
-resistor 
+
+resistor
+
 ALU 
+
 assembly language 
+
 VHDal 
 
-## Core Concepts Covered
-- **Registers & Memory:** Hands-on profiling of the 32 general-purpose registers (`x0` to `x31`).
-- **Immediate Generation:** Decoding I-type, S-type, B-type, U-type, and J-type instruction fields.
-- **Control Logic:** Mapping control signals for ALU operation selection and register-file edx-riscv-architecture-coursework
+ Core Concepts Covered
+ **Registers & Memory:** Hands-on profiling of the 32 general-purpose registers (`x0` to `x31`).
+Immediate Generation:** Decoding I-type, S-type, B-type, U-type, and J-type instruction fieldsfields
+ieldsontrol
+Controltiontion Logic:** Mapping control signals for ALU operation selection and register-file edx-riscv-architecture-coursework
 - scv-architecture-courseworkscv-architecture-courseworkttu
